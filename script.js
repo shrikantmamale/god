@@ -1,5 +1,5 @@
 
-            function compute()
+            function Calculate()
             {
                 p = document.getElementById("p").value;
                 n = document.getElementById("n").value;
